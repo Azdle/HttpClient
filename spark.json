@@ -1,5 +1,5 @@
 {
-  "name": "ForkHttpClient",
+  "name": "HttpClient",
   "author": "Patrick Barrett <pat@theunlink.com>",
   "license": "MIT",
   "version": "0.0.2",
